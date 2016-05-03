@@ -38,3 +38,4 @@ div_vdots_br_div__.html
 div_frac_1_n_sum___.html
 div_s_2_sum__n_1__.html
 div_end_equation_br_div__1.html
+div_We_have_some_higher__.html
