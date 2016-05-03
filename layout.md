@@ -27,3 +27,4 @@ div_When_solving_for_the__.html
 div_We_have_begin_equation__.html
 div_s_2_int__infty_infty__.html
 div_end_equation_br_div__.html
+div_Note_down_each_term__.html
