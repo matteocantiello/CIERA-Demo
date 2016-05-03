@@ -13,3 +13,4 @@ div_Burning_Phase_amp_r_c__.html
 div_hline_br_div__1.html
 div_He_Core_Burn_amp__.html
 div_hline_br_div__2.html
+div_C_Shell_Burn_amp__.html
