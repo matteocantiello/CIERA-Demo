@@ -34,6 +34,7 @@ div_frac_1_2_frac__2.html
 div_frac_1_3_frac__2.html
 div_frac_1_4_frac__2.html
 div_frac_1_5_frac__2.html
+div_vdots_br_div__2.html
 div_A_tornado_is_a__.html
 div_There_is_some_disagreement__.html
 div_This_convergence_of_warm__.html
