@@ -36,3 +36,4 @@ div_frac_1_4_frac__.html
 div_frac_1_5_frac__.html
 div_vdots_br_div__.html
 div_frac_1_n_sum___.html
+div_s_2_sum__n_1__.html
