@@ -1,6 +1,7 @@
 untitled.html
 A_tornado_is_a_violently__.html
 div_There_is_some_disagreement__2.html
+figures/Taylor/Taylor.png
 div_This_convergence_of_warm__2.html
 div_Tornadoes_have_been_observed__1.html
 div_There_is_some_disagreement__3.html
